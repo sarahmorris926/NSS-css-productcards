@@ -1,0 +1,13 @@
+article {
+  border: 1px solid lightblue;
+}
+
+.header {
+  border: 1px dotted lightgray;
+  text-align: center;
+}
+
+img {
+  width: 80%;
+  margin: 0 auto;
+}
