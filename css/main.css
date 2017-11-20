@@ -14,3 +14,19 @@ img {
   width: 80%;
   margin: 0 auto;
 }
+
+.specifications, .pricing {
+  font-weight: bold;
+}
+
+.availability {
+  background-color: darkgray;
+  color: yellow;
+  width: 100%;
+}
+
+.specifications p {
+  font-size: 8px;
+}
+
+
